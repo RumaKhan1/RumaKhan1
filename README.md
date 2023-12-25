@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RumaKhan1
-- 👀 I’m interested in Java Full Stack 
+- 👀 I enjoy being a Java Full Stack Developer along with my full time job as a Google Cloud Engineer
 - 🌱 I’m currently learning React.js, Advanced Java, SQL
 
 
